@@ -67,12 +67,12 @@ button:hover {
 
 /*STOP STYLING*/
 .active-stop {
-    fill: rgb(255, 234, 0);
+    fill: #8f00ff;
     stroke: black;
 }
 
 .inactive-stop {
-    fill: rgb(255, 253, 208);
+    fill: purple;
     stroke: black;
 
 }
